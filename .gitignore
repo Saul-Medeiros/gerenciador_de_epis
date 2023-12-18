@@ -1,0 +1,5 @@
+# Ignore bytecode class
+*.class
+
+# Ignore builds
+build/
